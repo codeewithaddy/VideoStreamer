@@ -3,6 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 now there much be some changes that would be improved now
 updated message
+"dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
 First, run the development server:
 
 ```bash
