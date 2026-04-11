@@ -13,7 +13,7 @@
     --foreground: #430f0f;
   }
 }
-background
+
 body {
   color: var(--background);
   background: var(--foreground);
