@@ -13,10 +13,10 @@
     --foreground: #430f0f;
   }
 }
-
+background
 body {
-  color: var(--foreground);
-  background: var(--background);
+  color: var(--background);
+  background: var(--foreground);
   font-family: Arial, Helvetica;
 }
 
